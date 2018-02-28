@@ -1,0 +1,1 @@
+celery -A youtube_db worker -B
